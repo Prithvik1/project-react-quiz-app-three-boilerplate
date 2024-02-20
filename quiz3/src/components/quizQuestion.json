@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Who is the leader of the Justice League?",
+        "optionA": "Superman",
+        "optionB": "Batman",
+        "optionC": "Wonder Woman",
+        "optionD": "The Flash",
+        "answer": "Batman"
+    },
+    {
+        "question": "What is the real name of Batman?",
+        "optionA": "Bruce Wayne",
+        "optionB": "Clark Kent",
+        "optionC": "Barry Allen",
+        "optionD": "Oliver Queen",
+        "answer": "Bruce Wayne"
+    },
+    {
+        "question": "Who is the arch-nemesis of Batman?",
+        "optionA": "The Riddler",
+        "optionB": "Two-Face",
+        "optionC": "Joker",
+        "optionD": "Penguin",
+        "answer": "Joker"
+    },
+    {
+        "question": "What is the name of Wonder Woman's home island?",
+        "optionA": "Atlantis",
+        "optionB": "Themyscira",
+        "optionC": "Amazonia",
+        "optionD": "Paradise Island",
+        "answer": "Themyscira"
+    },
+    {
+        "question": "Who directed 'The Dark Knight' trilogy?",
+        "optionA": "Zack Snyder",
+        "optionB": "Tim Burton",
+        "optionC": "Christopher Nolan",
+        "optionD": "Patty Jenkins",
+        "answer": "Christopher Nolan"
+    },
+    {
+        "question": "Which villain broke Batman's back in the 'Knightfall' storyline?",
+        "optionA": "The Penguin",
+        "optionB": "Bane",
+        "optionC": "Catwoman",
+        "optionD": "Mr. Freeze",
+        "answer": "Bane"
+    },
+    {
+        "question": "Who is known as the fastest man alive in DC Comics?",
+        "optionA": "Green Arrow",
+        "optionB": "Aquaman",
+        "optionC": "The Flash",
+        "optionD": "Cyborg",
+        "answer": "The Flash"
+    },
+    {
+        "question": "Which actress played Harley Quinn in the movie 'Birds of Prey'?",
+        "optionA": "Gal Gadot",
+        "optionB": "Margot Robbie",
+        "optionC": "Zendaya",
+        "optionD": "Emma Stone",
+        "answer": "Margot Robbie"
+    },
+    {
+        "question": "What is the real name of Superman?",
+        "optionA": "Bruce Wayne",
+        "optionB": "Clark Kent",
+        "optionC": "Oliver Queen",
+        "optionD": "Barry Allen",
+        "answer": "Clark Kent"
+    },
+    {
+        "question": "Which city does Batman protect?",
+        "optionA": "Metropolis",
+        "optionB": "Central City",
+        "optionC": "Gotham City",
+        "optionD": "Star City",
+        "answer": "Gotham City"
+    },
+    {
+        "question": "What is the name of Aquaman's home underwater city?",
+        "optionA": "Atlantis",
+        "optionB": "Rapture",
+        "optionC": "Marineopolis",
+        "optionD": "Oceanus",
+        "answer": "Atlantis"
+    },
+    {
+        "question": "Which DC character is known as the 'Man of Steel'?",
+        "optionA": "Batman",
+        "optionB": "Superman",
+        "optionC": "Green Lantern",
+        "optionD": "The Flash",
+        "answer": "Superman"
+    },
+    {
+        "question": "What is the alias of Barry Allen, the speedster in DC Comics?",
+        "optionA": "Kid Flash",
+        "optionB": "Zoom",
+        "optionC": "Reverse Flash",
+        "optionD": "The Flash",
+        "answer": "The Flash"
+    },
+    {
+        "question": "Who is the love interest of Lois Lane in Superman comics?",
+        "optionA": "Lex Luthor",
+        "optionB": "Jimmy Olsen",
+        "optionC": "Perry White",
+        "optionD": "Clark Kent",
+        "answer": "Clark Kent"
+    },
+    {
+        "question": "What is the name of the artificial intelligence system in the Batcave?",
+        "optionA": "JARVIS",
+        "optionB": "FRIDAY",
+        "optionC": "ALFRED",
+        "optionD": "BATCOM",
+        "answer": "ALFRED"
+    }
+]

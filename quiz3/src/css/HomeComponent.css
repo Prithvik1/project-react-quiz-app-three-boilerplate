@@ -1,0 +1,28 @@
+
+.home{
+    text-align: center;
+    margin-top: 300px;
+    
+  
+  }
+  
+  .home-heading{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight:bolder
+  }
+  
+  .home-bt{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    background-color: rgb(80, 179, 80);
+    width: 200px;
+    height: 40px;
+    border-radius: 70px;
+    outline: none;
+    cursor: pointer;
+  }
+
+  *{
+    justify-content: center;
+  }
